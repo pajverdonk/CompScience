@@ -1,4 +1,4 @@
-# CompScience
+# Computer Science assignment
 Duplicate Detection method
 1. Packages and data are imported
 2. All functions are defined
